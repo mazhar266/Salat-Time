@@ -1,0 +1,6 @@
+{
+  "name": "NoorSalat - Salat & Dhikr Companion",
+  "description": "Precision prayer timer with high-latitude Arctic and Finland calculation, interactive Qibla compass, Adhan alerts, and personalized post-prayer Dhikr and Dua recitation tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
